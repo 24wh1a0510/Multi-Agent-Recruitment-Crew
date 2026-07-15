@@ -182,7 +182,3 @@ Every pipeline run returns the full shared state, which the UI renders as:
 - Bias mitigation: the Verification Agent re-scores using a **name-anonymized** copy of the profile and compares against the original score for consistency.
 
 ---
-
-## License
-
-MIT — use freely, adapt for your own recruitment workflows.
